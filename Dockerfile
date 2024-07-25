@@ -17,6 +17,7 @@ COPY wait.sh /wait.sh
 RUN chmod +x /wait.sh
 
 # Expose the port the app runs on.
+ENV PORT 10000
 EXPOSE 10000
 
 # Run the app.
