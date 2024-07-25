@@ -13,6 +13,9 @@ RUN npm install
 # Copy the rest of the application code.
 COPY . .
 
+COPY wait.sh /wait.sh
+RUN chmod +x /wait.sh
+
 # Expose the port the app runs on.
 EXPOSE 10000
 
