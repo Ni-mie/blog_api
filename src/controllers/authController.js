@@ -41,6 +41,3 @@ const getUserProfile = async (req, res) => {
 module.exports = { registerUser, loginUser, getUserProfile };
 
 
-//$2a$08$ejYiZ03G9IxXRmGevRY7ou.//xOoObcHYGUrnjLEnLz9GXA4TfduO
-//eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NiwiaWF0IjoxNzIxNzcxNjMxfQ.p4t6WQoQt9A9nGWg-wJpYN59CzqsufKsdqcvbBB5oLA
-//eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NiwiaWF0IjoxNzIxNzcxNzE5fQ.nc_R0SJ955W-eYLFolrTejLxRLJcB9_2R3nHW90yFQk
