@@ -49,8 +49,8 @@ DB_NAME=blog_db
 docker-compose up
 ```
 5. Access the application:
-The application will be running at http://localhost:3000.
+The application will be running at http://localhost:5000.
 
 ### API Documentation
-The Postman collection for API documentation can be found [here] ().
+The Postman collection for API documentation can be found [here] (https://documenter.getpostman.com/view/33001290/2sA3kXF16X).
 
