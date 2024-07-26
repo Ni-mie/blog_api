@@ -52,5 +52,5 @@ docker-compose up
 The application will be running at http://localhost:5000.
 
 ### API Documentation
-The Postman collection for API documentation can be found [here] (https://documenter.getpostman.com/view/33001290/2sA3kXF16X).
+The Postman collection for API documentation can be found [here](https://documenter.getpostman.com/view/33001290/2sA3kXF16X).
 
